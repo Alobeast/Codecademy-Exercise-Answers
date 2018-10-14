@@ -13,6 +13,6 @@ class Computer
         puts "file was created"
     end
     def Computer.get_users
-        @@class_variable
+        @@users
     end
 end
